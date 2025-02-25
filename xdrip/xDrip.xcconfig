@@ -20,7 +20,7 @@ XDRIP_ENTITLEMENTS_DEBUG = xdrip/xdripDebug.entitlements
 XDRIP_CODE_SIGN_IDENTITY_DEBUG = Apple Development
 XDRIP_CODE_SIGN_IDENTITY_RELEASE = Apple Development
 XDRIP_CODE_SIGN_STYLE = Automatic
-XDRIP_DEVELOPMENT_TEAM = ##TEAM_ID##
+XDRIP_DEVELOPMENT_TEAM = T7VZ6LU6H3
 
 // Version [DEFAULT]
 #include? "Version.xcconfig"
